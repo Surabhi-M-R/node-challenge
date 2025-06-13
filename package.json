@@ -1,0 +1,23 @@
+{
+  "name": "node-challenge",
+  "version": "1.0.0",
+  "description": "learning node and express series",
+  "homepage": "https://github.com/Surabhi-M-R/node-challenge#readme",
+  "bugs": {
+    "url": "https://github.com/Surabhi-M-R/node-challenge/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Surabhi-M-R/node-challenge.git"
+  },
+  "license": "ISC",
+  "author": "Surabhi M R",
+  "type": "commonjs",
+  "main": "task.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
