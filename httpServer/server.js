@@ -11,7 +11,7 @@ const server=http.createServer((req,res)=>{
     }
      if(req.url==="/contact"){
         
-        res.write(" I am surabhi M R is also very intelligent");
+        res.write(" I am sush M R CC also very intelligent");
         res.end();
     }
 });
