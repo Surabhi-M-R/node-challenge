@@ -2,5 +2,10 @@ what is backend?
 backend developer is who knows server and the DB
 
 why backend ?
-to make website more usable and purposeful for audience
+to make website more usable and purposeful for audience, to make website dynamic 
+
+why not frontend 
+website are static 
+
+ 
 
